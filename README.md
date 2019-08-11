@@ -14,3 +14,4 @@
 12) [Given three integers, print the least of them](day_012.md)
 13) [JugsMugs for Three and Five](day_013.md)
 14) [Digit in Number](day_014.md)
+15) [JugsMugsPugs](day_015.md)
