@@ -11,3 +11,4 @@
 9) [Given a three-digit number. Find the sum of its digits.](day_009.md)
 10) [Given an integer, print "odd" if it's odd and print "even" otherwise.](day_010.md)
 11) [Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.](day_011.md)
+12) [Given three integers, print the least of them](day_012.md)
